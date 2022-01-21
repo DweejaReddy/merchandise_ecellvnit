@@ -45,17 +45,17 @@
         </div>
         <div class="col-12 col-lg-5 my-auto">
             <h3 class="heading d-none d-lg-block my-2 text-left ml-xl-3">OFFICIAL E-CELL MERCHANDISE</h3>
-            <h4 class="text-white text-xl-left" style="font-weight: 400;">Half Sleeve T-Shirt</h4>
-            <h4 class="text-white text-xl-left" style="font-weight: 700;"><span class="mr-3"><i class="fas fa-rupee-sign"></i> 349 </span><span style="color: #919191;" class="strikethrough"><i class="fas fa-rupee-sign"></i> 799</span><span style="font-weight: 400;">(55% OFF)</span></h4>
+            <h4 class="text-white text-xl-left ml-xl-3" style="font-weight: 400;">Half Sleeve T-Shirt</h4>
+            <h4 class="text-white text-xl-left ml-xl-3" style="font-weight: 700;"><span class="mr-3"><i class="fas fa-rupee-sign"></i> 349 </span><span style="color: #919191;" class="strikethrough"><i class="fas fa-rupee-sign"></i> 799</span><span style="font-weight: 400;">(55% OFF)</span></h4>
             <h4 class="mt-5 mb-4 text-xl-left" style="color: #919191;font-weight: 400;">Sizes Available</h4>
-            <div class="text-center d-xl-flex flex-row sizebtn" style="color: #919191;">
+            <div class="text-center d-xl-flex flex-row sizebtn ml-xl-3" style="color: #919191;">
                 <span class="sizes text-lg-left mr-1" style="padding: 10px 19px;">S</span>
                 <span class="sizes text-lg-left mr-1" style="padding: 10px 17px;">M</span>
                 <span class="sizes text-lg-left mr-1" style="padding: 10px 19px;">L</span>
                 <span class="sizes text-lg-left mr-1" style="padding: 10px 15px;">XL</span>
                 <span class="sizes text-lg-left mr-1" style="padding: 10px 10px;">XXL</span>
             </div>
-            <div class="col-md-12 text-xl-left my-5">
+            <div class="col-md-12 text-xl-left my-5 ml-xl-3">
                 <a href="" target="_blank"><button type="button" class="btn text-white btn3">BUY NOW</button></a>
             </div>
         </div>
