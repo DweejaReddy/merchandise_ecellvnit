@@ -44,7 +44,7 @@
             <img class="model" src="img/model.png" alt="">
         </div>
         <div class="col-12 col-lg-5 my-auto">
-            <h2 class="heading d-none d-lg-block my-2 text-left">OFFICIAL E-CELL MERCHANDISE</h2>
+            <h2 class="heading d-none d-lg-block my-2 text-center">OFFICIAL E-CELL MERCHANDISE</h2>
             <h4 class="text-white text-xl-left" style="font-weight: 400;">Half Sleeve T-Shirt</h4>
             <h4 class="text-white text-xl-left" style="font-weight: 700;"><span class="mr-3"><i class="fas fa-rupee-sign"></i> 349 </span><span style="color: #919191;" class="strikethrough"><i class="fas fa-rupee-sign"></i> 799</span><span style="font-weight: 400;">(55% OFF)</span></h4>
             <h4 class="mt-5 mb-4 text-xl-left" style="color: #919191;font-weight: 400;">Sizes Available</h4>
