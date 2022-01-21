@@ -5,12 +5,12 @@
 </head>
 <?php include('header.php')?>
 <body style="background-color: #232323;">
-    <div class="bord"></div>
-    <div class="name">E-CELL VNIT</div>
-    <div class="bord1"></div>
-    <div class="bord2"></div>
+    <div class="bord d-none d-xl-block"></div>
+    <div class="name d-none d-xl-block">E-CELL VNIT</div>
+    <div class="bord1 d-none d-xl-block"></div>
+    <div class="bord2 d-none d-xl-block"></div>
     <section id="home" class="d-none d-md-block">
-    <img src="img/home.png" style="width: 100vw;">
+    <img src="img/home.png" style="width: 100vw;margin-top: -12vw;">
     <img class=" home_shirt" src="img/home_tshirt.png">
     <a class="btn btn2" href="" target="_blank" role="button">BUY NOW</a>
 </section>
