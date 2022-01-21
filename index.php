@@ -13,7 +13,7 @@
     <section id="home" class="d-none d-md-block">
     <img src="img/home.png" style="width: 100vw;margin-top: -12vw;">
     <img class=" home_shirt" src="img/home_tshirt.png">
-    <a class="btn btn2" href="" target="_blank" role="button">BUY NOW</a>
+    <a class="btn btn2" href="register.php" target="_blank" role="button">BUY NOW</a>
 </section>
 
 <section id="home_mob" class="d-block d-md-none container text-center align-items-center">
@@ -21,7 +21,8 @@
     <div class="merch text-center" style="margin-top: -10vw;opacity: 0.5;-webkit-text-stroke-width: 0.1vw;">MERCHANDISE</div>
     <div class="merch text-center" style="margin-top: -10vw;color: #fff;">MERCHANDISE</div>
     <img class=" home_mob_shirt" style="margin-top: -10vw;" src="img/home_tshirt.png">
-    <a class="btn btn2_mob text-center" href="" target="_blank" role="button">BUY NOW</a>
+    <a class="btn btn2_mob text-center" href="register.php" target="_blank" role="button">BUY NOW</a>
+    <img style="margin-top: -10vw;margin-left: 20vw;" src="img/group.png" alt="">
 </section>
 
 <section class="container bg my-5 py-5 text-center align-items-center mx-auto" style="max-width: 85vw;">
@@ -36,7 +37,7 @@
         </div>
        
         <div class="col-md-12 text-center my-2">
-            <a href="" target="_blank"><button type="button" class="btn text-white btn3">BUY NOW</button></a>
+            <a href="register.php" target="_blank"><button type="button" class="btn text-white btn3">BUY NOW</button></a>
         </div>
     </div>
 </section>
@@ -60,7 +61,7 @@
                 <span class="sizes text-lg-left mr-1" style="padding: 10px 10px;">XXL</span>
             </div>
             <div class="col-md-12 text-xl-left my-5 ml-xl-3">
-                <a href="" target="_blank"><button type="button" class="btn text-white btn3">BUY NOW</button></a>
+                <a href="register.php" target="_blank"><button type="button" class="btn text-white btn3">BUY NOW</button></a>
             </div>
         </div>
     </div>
