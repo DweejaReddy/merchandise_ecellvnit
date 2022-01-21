@@ -15,6 +15,7 @@ body{
   color: #919191;
   position: absolute;
   top:51vw;
+  left:-1%;
   transform: rotate(-90deg);
 }
 .bord1{
