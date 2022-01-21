@@ -192,9 +192,6 @@ body{
     }
 }
 @media only screen and (min-width:1280px) {
-  .front,.back{
-    padding: 0 5vw;
-  }
   .free{
     background-image: url(img/group.png);
     background-repeat: no-repeat;
