@@ -23,11 +23,11 @@
 <section class="container bg my-5 py-5 text-center align-items-center mx-auto" style="max-width: 85vw;">
     <div class="row align-items-center mx-auto">
         <div class="col-lg-6 col-12 my-4">
-            <img class="front " src="img/Tshirt_front.png" alt="">
+            <img class="front px-xl-5" src="img/Tshirt_front.png" alt="">
             <h4 class="text-center text-white sub my-4">FRONT</h4>
         </div>
         <div class="col-lg-6 col-12 my-4">
-            <img class="back " src="img/Tshirt_back.png" alt="">
+            <img class="back px-xl-5" src="img/Tshirt_back.png" alt="">
             <h4 class="text-center text-white sub my-4">BACK</h4>
         </div>
        
