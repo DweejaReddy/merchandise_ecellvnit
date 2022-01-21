@@ -22,13 +22,13 @@ body{
   left: 3%;
   top: 56vw;
   position: absolute;
-  height: 160vw;
+  height: 172vw;
 }
 .bord2{
   border-right: 1px solid #fff;
   right: 3%;
   position: absolute;
-  height: 211vw;
+  height: 225vw;
 }
 /* NAVBAR CSS */
 #mainNavbar {
