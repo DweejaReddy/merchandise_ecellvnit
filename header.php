@@ -37,10 +37,10 @@
       <div class="collapse navbar-collapse" id="navLinks">
         <ul class="navbar-nav text-center">
           <li class="nav-item d-none d-lg-block">
-            <a href="index.php" class="nav-link">Home</a>
+            <a href="#home" class="nav-link">Home</a>
           </li>
           <li class="nav-item d-lg-none">
-            <a href="index.php" class="nav-link">Home</a>
+            <a href="#home_mob" class="nav-link">Home</a>
           </li>
           <li class="nav-item">
             <a href="index.php" class="nav-link">Events</a>
