@@ -9,6 +9,7 @@
     <div class="name d-none d-xl-block">E-CELL VNIT</div>
     <div class="bord1 d-none d-xl-block"></div>
     <div class="bord2 d-none d-xl-block"></div>
+
     <section id="home" class="d-none d-md-block">
     <img src="img/home.png" style="width: 100vw;margin-top: -12vw;">
     <img class=" home_shirt" src="img/home_tshirt.png">
@@ -16,7 +17,10 @@
 </section>
 
 <section id="home_mob" class="d-block d-md-none container text-center align-items-center">
-    <img class=" home_mob_shirt" src="img/home_tshirt.png">
+    <div class="merch text-center" style="margin-top: -8vw;opacity: 0.25;-webkit-text-stroke-width: 0.1vw;">MERCHANDISE</div>
+    <div class="merch text-center" style="margin-top: -10vw;opacity: 0.5;-webkit-text-stroke-width: 0.1vw;">MERCHANDISE</div>
+    <div class="merch text-center" style="margin-top: -10vw;color: #fff;">MERCHANDISE</div>
+    <img class=" home_mob_shirt" style="margin-top: -10vw;" src="img/home_tshirt.png">
     <a class="btn btn2_mob text-center" href="" target="_blank" role="button">BUY NOW</a>
 </section>
 
