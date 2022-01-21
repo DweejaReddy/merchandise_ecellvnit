@@ -53,7 +53,7 @@
           </li>
         </ul>
         <li class="nav-item d-none d-lg-block" style="margin-right: 10%;">
-          <a class="btn btn-dark btn1 mx-4 px-4" href="" target="_blank" role="button">Buy Merchandise</a>
+          <a class="btn btn-dark btn1 mx-4 px-4" href="register.php" target="_blank" role="button">Buy Merchandise</a>
         </li>
       </div>
     </nav>
