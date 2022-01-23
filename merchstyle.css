@@ -22,13 +22,13 @@ border-left: 1px solid #fff;
 left: 3%;
 top: 56vw;
 position: absolute;
-height: 175vw;
+height: 274vw;
 }
 .bord2{
 border-right: 1px solid #fff;
 right: 3%;
 position: absolute;
-height: 225vw;
+height: 325vw;
 }
 /* NAVBAR CSS */
 #mainNavbar {
@@ -66,9 +66,9 @@ height: 225vw;
 /* HOME CSS */
 .home_shirt{
   position: absolute;
-  top: 9vw;
-  left: 29vw;
-  width: 42vw;
+  top: 10vw;
+  left: 31vw;
+  width: 38vw;
   filter: drop-shadow(4px 4px 25px rgba(0, 0, 0, 0.25));
 
 }
@@ -106,7 +106,7 @@ height: 225vw;
 }
 .btn2_mob{
   position: absolute;
-  top: 122vw;
+  top: 127vw;
   left: 25vw;
   color: #fff;
   background-color: #0072FF;
