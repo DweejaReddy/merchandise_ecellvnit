@@ -75,7 +75,7 @@ form{
                 <div class="form-group row mb-2 labels mt-4">
                     <label for="pin" class="col-md-3 col-form-label offset-1 offset-md-0">Pincode*</label>
                     <div class="col-md-8 col-10 offset-1 offset-md-0">
-                        <input type="text" class="form-control rounded-pill" name="pin" placeholder="Pincode" required>
+                        <input class="form-control rounded-pill" name="pin" placeholder="Pincode" required>
                     </div>
                 </div>
                 <div class="form-group row mb-2 labels mt-4">
@@ -84,22 +84,36 @@ form{
                         <select name="size" class="form-control rounded-pill" id="size" required>
                             <div class="btn btn-light">
                             <option class="option" value="">--Choose one option below--</option>
-                            <option class="option" value="atal">S</option>
-                            <option class="option" value="ito">M</option>
-                            <option class="option" value="uc">L</option>
-                            <option class="option" value="scholar">XL</option>
-                            <option class="option" value="others">XXL</option>
+                            <option class="option" value="S">S</option>
+                            <option class="option" value="M">M</option>
+                            <option class="option" value="L">L</option>
+                            <option class="option" value="XL">XL</option>
+                            <option class="option" value="2XL">2XL</option>
+                            <option class="option" value="3XL">3XL</option>
+                            <option class="option" value="4XL">4XL</option>
                           </select>
                     </div>
                 </div>
                 <div class="form-group row mb-2 labels mt-4">
                     <label for="type" class="col-md-3 col-form-label offset-1 offset-md-0">Type*</label>
                     <div class="col-md-8 col-10 offset-1 offset-md-0">
-                        <select name="type" class="form-control rounded-pill" id="size" required>
+                        <select name="type" class="form-control rounded-pill" id="type" required>
                             <div class="btn btn-light">
                             <option class="option" value="">--Choose one option below--</option>
                             <option class="option" value="student">Student Edition</option>
                             <option class="option" value="alumni">Alumni Edition</option>
+                          </select>
+                    </div>
+                </div> 
+
+                <div class="form-group row mb-2 labels mt-4">
+                    <label for="printName" class="col-md-6 col-form-label offset-1 offset-md-0">Do you want name on the Shirt?*</label>
+                    <div class="col-md-5 col-10 offset-1 offset-md-0">
+                        <select name="printName" class="form-control rounded-pill" id="printName" required>
+                            <div class="btn btn-light">
+                            <option class="option" value="">--Choose one option below--</option>
+                            <option class="option" value="yes">Yes</option>
+                            <option class="option" value="no">No</option>
                           </select>
                     </div>
                 </div> 
