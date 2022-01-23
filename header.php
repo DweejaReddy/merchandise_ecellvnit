@@ -43,13 +43,13 @@
             <a href="#home_mob" class="nav-link">Home</a>
           </li>
           <li class="nav-item">
-            <a href="index.php" class="nav-link">Events</a>
+            <a href="https://www.ecellvnit.org/IPLEvents/index.php" target="_blank" class="nav-link">Events</a>
           </li>
           <li class="nav-item">
-           <a href="index.php" class="nav-link">Team</a>
+           <a href="https://www.ecellvnit.org/team.php" target="_blank" class="nav-link">Team</a>
           </li>
           <li class="nav-item">
-            <a href="index.php" class="nav-link" target="_blank">Contact Us</a>
+            <a href="https://www.ecellvnit.org/#contact" class="nav-link" target="_blank">Contact Us</a>
           </li>
         </ul>
         <li class="nav-item d-none d-lg-block" style="margin-right: 10%;">
